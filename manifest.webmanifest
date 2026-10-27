@@ -1,0 +1,17 @@
+{
+  "name": "The Rippling Views \u2014 Maasin City Division",
+  "short_name": "Rippling Views",
+  "description": "The Official Publication of Maasin City Division",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0756b8",
+  "icons": [
+    {
+      "src": "assets/rippling-views-logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
